@@ -1,0 +1,5 @@
+name: balbPing
+author: Balbucio
+version: 1.0.2
+main: me.balbucio.ping.Main
+description: Veja o ping dos seus jogadores!
